@@ -1,0 +1,564 @@
+0  :  
+1  : Registration Number 
+2  : 12141000 
+3  :  
+4  : Student Name 
+5  : ABU ALEX KANNAMALA 
+6  : Degree 
+7  : B.Tech 
+8  :  
+9  : Branch 
+10  : Computer Science & Engineering 
+11  : Semester 
+12  : 8 
+13  : Month & Year  
+14  : April-2017 
+15  :  
+16  : </table><table width="100%" class="order-list" border="2"> 
+17  :  
+18  : Subject Code 
+19  :  
+20  : Subject Name 
+21  :  
+22  : Marks (Grade) 
+23  :  
+24  : Result 
+25  :  
+26  : CS 1801 
+27  : ADVANCED ARCHITECTURE AND PARALLEL PROCESSING 
+28  : 94(C) 
+29  :  
+30  : PASSED 
+31  :  
+32  : CS 1802 
+33  : OBJECT ORIENTED MODELING AND DESIGN 
+34  : 91(C) 
+35  :  
+36  : PASSED 
+37  :  
+38  : CS 1803 
+39  : DISTRIBUTED COMPUTING 
+40  : 73(F) 
+41  :  
+42  : FAILED 
+43  :  
+44  : CS 1804 E3 
+45  : MOBILE COMPUTING 
+46  : 105(B) 
+47  :  
+48  : PASSED 
+49  :  
+50  : CS 18L1 
+51  : PROJECT 
+52  : 262(A) 
+53  :  
+54  : PASSED 
+55  :  
+56  : CS 18L2 
+57  : VIVA-VOCE 
+58  : 70(B) 
+59  :  
+60  : PASSED 
+61  : </table>Total :  
+62  :  GPA :  
+None
+0  :  
+1  : Registration Number 
+2  : 12141001 
+3  :  
+4  : Student Name 
+5  : AKHIL DILEEP 
+6  : Degree 
+7  : B.Tech 
+8  :  
+9  : Branch 
+10  : Computer Science & Engineering 
+11  : Semester 
+12  : 8 
+13  : Month & Year  
+14  : April-2017 
+15  :  
+16  : </table><table width="100%" class="order-list" border="2"> 
+17  :  
+18  : Subject Code 
+19  :  
+20  : Subject Name 
+21  :  
+22  : Marks (Grade) 
+23  :  
+24  : Result 
+25  :  
+26  : CS 1801 
+27  : ADVANCED ARCHITECTURE AND PARALLEL PROCESSING 
+28  : 93(C) 
+29  :  
+30  : PASSED 
+31  :  
+32  : CS 1802 
+33  : OBJECT ORIENTED MODELING AND DESIGN 
+34  : 92(C) 
+35  :  
+36  : PASSED 
+37  :  
+38  : CS 1803 
+39  : DISTRIBUTED COMPUTING 
+40  : 80(D) 
+41  :  
+42  : PASSED 
+43  :  
+44  : CS 1804 E3 
+45  : MOBILE COMPUTING 
+46  : 102(C) 
+47  :  
+48  : PASSED 
+49  :  
+50  : CS 18L1 
+51  : PROJECT 
+52  : 266(A) 
+53  :  
+54  : PASSED 
+55  :  
+56  : CS 18L2 
+57  : VIVA-VOCE 
+58  : 78(B) 
+59  :  
+60  : PASSED 
+61  : </table>Total :711 
+62  :  GPA :7.68 
+None
+0  :  
+1  : Registration Number 
+2  : 12141002 
+3  :  
+4  : Student Name 
+5  : ALLAN JACOB MATHEW` 
+6  : Degree 
+7  : B.Tech 
+8  :  
+9  : Branch 
+10  : Computer Science & Engineering 
+11  : Semester 
+12  : 8 
+13  : Month & Year  
+14  : April-2017 
+15  :  
+16  : </table><table width="100%" class="order-list" border="2"> 
+17  :  
+18  : Subject Code 
+19  :  
+20  : Subject Name 
+21  :  
+22  : Marks (Grade) 
+23  :  
+24  : Result 
+25  :  
+26  : CS 1801 
+27  : ADVANCED ARCHITECTURE AND PARALLEL PROCESSING 
+28  : 87(D) 
+29  :  
+30  : PASSED 
+31  :  
+32  : CS 1802 
+33  : OBJECT ORIENTED MODELING AND DESIGN 
+34  : 98(C) 
+35  :  
+36  : PASSED 
+37  :  
+38  : CS 1803 
+39  : DISTRIBUTED COMPUTING 
+40  : 70(F) 
+41  :  
+42  : FAILED 
+43  :  
+44  : CS 1804 E3 
+45  : MOBILE COMPUTING 
+46  : 103(C) 
+47  :  
+48  : PASSED 
+49  :  
+50  : CS 18L1 
+51  : PROJECT 
+52  : 265(A) 
+53  :  
+54  : PASSED 
+55  :  
+56  : CS 18L2 
+57  : VIVA-VOCE 
+58  : 70(B) 
+59  :  
+60  : PASSED 
+61  : </table>Total :  
+62  :  GPA :  
+None
+0  :  
+1  : Registration Number 
+2  : 12141003 
+3  :  
+4  : Student Name 
+5  : ARAVIND P 
+6  : Degree 
+7  : B.Tech 
+8  :  
+9  : Branch 
+10  : Computer Science & Engineering 
+11  : Semester 
+12  : 8 
+13  : Month & Year  
+14  : April-2017 
+15  :  
+16  : </table><table width="100%" class="order-list" border="2"> 
+17  :  
+18  : Subject Code 
+19  :  
+20  : Subject Name 
+21  :  
+22  : Marks (Grade) 
+23  :  
+24  : Result 
+25  :  
+26  : CS 1801 
+27  : ADVANCED ARCHITECTURE AND PARALLEL PROCESSING 
+28  : 82(D) 
+29  :  
+30  : PASSED 
+31  :  
+32  : CS 1802 
+33  : OBJECT ORIENTED MODELING AND DESIGN 
+34  : 95(C) 
+35  :  
+36  : PASSED 
+37  :  
+38  : CS 1803 
+39  : DISTRIBUTED COMPUTING 
+40  : 72(F) 
+41  :  
+42  : FAILED 
+43  :  
+44  : CS 1804 E3 
+45  : MOBILE COMPUTING 
+46  : 90(C) 
+47  :  
+48  : PASSED 
+49  :  
+50  : CS 18L1 
+51  : PROJECT 
+52  : 268(A) 
+53  :  
+54  : PASSED 
+55  :  
+56  : CS 18L2 
+57  : VIVA-VOCE 
+58  : 65(C) 
+59  :  
+60  : PASSED 
+61  : </table>Total :  
+62  :  GPA :  
+None
+0  :  
+1  : Registration Number 
+2  : 12141004 
+3  :  
+4  : Student Name 
+5  : ASHWIN SIVAKUMAR NAIR 
+6  : Degree 
+7  : B.Tech 
+8  :  
+9  : Branch 
+10  : Computer Science & Engineering 
+11  : Semester 
+12  : 8 
+13  : Month & Year  
+14  : April-2017 
+15  :  
+16  : </table><table width="100%" class="order-list" border="2"> 
+17  :  
+18  : Subject Code 
+19  :  
+20  : Subject Name 
+21  :  
+22  : Marks (Grade) 
+23  :  
+24  : Result 
+25  :  
+26  : CS 1801 
+27  : ADVANCED ARCHITECTURE AND PARALLEL PROCESSING 
+28  : 30(F) 
+29  :  
+30  : FAILED 
+31  :  
+32  : CS 1802 
+33  : OBJECT ORIENTED MODELING AND DESIGN 
+34  : 32(F) 
+35  :  
+36  : FAILED 
+37  :  
+38  : CS 1803 
+39  : DISTRIBUTED COMPUTING 
+40  : 34(F) 
+41  :  
+42  : FAILED 
+43  :  
+44  : CS 1804 E3 
+45  : MOBILE COMPUTING 
+46  : 29(F) 
+47  :  
+48  : FAILED 
+49  :  
+50  : CS 18L1 
+51  : PROJECT 
+52  : 252(A) 
+53  :  
+54  : PASSED 
+55  :  
+56  : CS 18L2 
+57  : VIVA-VOCE 
+58  : 55(D) 
+59  :  
+60  : PASSED 
+61  : </table>Total :  
+62  :  GPA :  
+None
+0  :  
+1  : Registration Number 
+2  : 12141005 
+3  :  
+4  : Student Name 
+5  : ASWIN ASHOK 
+6  : Degree 
+7  : B.Tech 
+8  :  
+9  : Branch 
+10  : Computer Science & Engineering 
+11  : Semester 
+12  : 8 
+13  : Month & Year  
+14  : April-2017 
+15  :  
+16  : </table><table width="100%" class="order-list" border="2"> 
+17  :  
+18  : Subject Code 
+19  :  
+20  : Subject Name 
+21  :  
+22  : Marks (Grade) 
+23  :  
+24  : Result 
+25  :  
+26  : CS 18L2 
+27  : VIVA-VOCE 
+28  : A(F) 
+29  :  
+30  : FAILED 
+31  : </table>Total :  
+32  :  GPA :  
+None
+0  :  
+1  : Registration Number 
+2  : 12141006 
+3  :  
+4  : Student Name 
+5  : DEEPAK D NAIR 
+6  : Degree 
+7  : B.Tech 
+8  :  
+9  : Branch 
+10  : Computer Science & Engineering 
+11  : Semester 
+12  : 8 
+13  : Month & Year  
+14  : April-2017 
+15  :  
+16  : </table><table width="100%" class="order-list" border="2"> 
+17  :  
+18  : Subject Code 
+19  :  
+20  : Subject Name 
+21  :  
+22  : Marks (Grade) 
+23  :  
+24  : Result 
+25  :  
+26  : CS 1801 
+27  : ADVANCED ARCHITECTURE AND PARALLEL PROCESSING 
+28  : 105(B) 
+29  :  
+30  : PASSED 
+31  :  
+32  : CS 1802 
+33  : OBJECT ORIENTED MODELING AND DESIGN 
+34  : 103(C) 
+35  :  
+36  : PASSED 
+37  :  
+38  : CS 1803 
+39  : DISTRIBUTED COMPUTING 
+40  : 92(C) 
+41  :  
+42  : PASSED 
+43  :  
+44  : CS 1804 E3 
+45  : MOBILE COMPUTING 
+46  : 109(B) 
+47  :  
+48  : PASSED 
+49  :  
+50  : CS 18L1 
+51  : PROJECT 
+52  : 263(A) 
+53  :  
+54  : PASSED 
+55  :  
+56  : CS 18L2 
+57  : VIVA-VOCE 
+58  : 86(A) 
+59  :  
+60  : PASSED 
+61  : </table>Total :758 
+62  :  GPA :8.18 
+63  : <p align=center><font size=4 > 
+64  : CGPA 
+65  : 7.89 
+66  :  
+67  : Classification 
+68  : First Class 
+None
+0  :  
+1  : Registration Number 
+2  : 12141007 
+3  :  
+4  : Student Name 
+5  : GOKUL KUMAR G 
+6  : Degree 
+7  : B.Tech 
+8  :  
+9  : Branch 
+10  : Computer Science & Engineering 
+11  : Semester 
+12  : 8 
+13  : Month & Year  
+14  : April-2017 
+15  :  
+16  : </table><table width="100%" class="order-list" border="2"> 
+17  :  
+18  : Subject Code 
+19  :  
+20  : Subject Name 
+21  :  
+22  : Marks (Grade) 
+23  :  
+24  : Result 
+25  :  
+26  : CS 1801 
+27  : ADVANCED ARCHITECTURE AND PARALLEL PROCESSING 
+28  : 97(C) 
+29  :  
+30  : PASSED 
+31  :  
+32  : CS 1802 
+33  : OBJECT ORIENTED MODELING AND DESIGN 
+34  : 90(C) 
+35  :  
+36  : PASSED 
+37  :  
+38  : CS 1803 
+39  : DISTRIBUTED COMPUTING 
+40  : 85(D) 
+41  :  
+42  : PASSED 
+43  :  
+44  : CS 1804 E3 
+45  : MOBILE COMPUTING 
+46  : 104(C) 
+47  :  
+48  : PASSED 
+49  :  
+50  : CS 18L1 
+51  : PROJECT 
+52  : 274(S) 
+53  :  
+54  : PASSED 
+55  :  
+56  : CS 18L2 
+57  : VIVA-VOCE 
+58  : 65(C) 
+59  :  
+60  : PASSED 
+61  : </table>Total :715 
+62  :  GPA :7.95 
+63  : <p align=center><font size=4 > 
+64  : CGPA 
+65  : 7.3 
+66  :  
+67  : Classification 
+68  : First Class 
+None
+0  :  
+1  : Registration Number 
+2  : 12141008 
+3  :  
+4  : Student Name 
+5  : JAISON MATHEW JOHN 
+6  : Degree 
+7  : B.Tech 
+8  :  
+9  : Branch 
+10  : Computer Science & Engineering 
+11  : Semester 
+12  : 8 
+13  : Month & Year  
+14  : April-2017 
+15  :  
+16  : </table><table width="100%" class="order-list" border="2"> 
+17  :  
+18  : Subject Code 
+19  :  
+20  : Subject Name 
+21  :  
+22  : Marks (Grade) 
+23  :  
+24  : Result 
+25  :  
+26  : CS 1801 
+27  : ADVANCED ARCHITECTURE AND PARALLEL PROCESSING 
+28  : 111(B) 
+29  :  
+30  : PASSED 
+31  :  
+32  : CS 1802 
+33  : OBJECT ORIENTED MODELING AND DESIGN 
+34  : 102(C) 
+35  :  
+36  : PASSED 
+37  :  
+38  : CS 1803 
+39  : DISTRIBUTED COMPUTING 
+40  : 85(D) 
+41  :  
+42  : PASSED 
+43  :  
+44  : CS 1804 E3 
+45  : MOBILE COMPUTING 
+46  : 114(B) 
+47  :  
+48  : PASSED 
+49  :  
+50  : CS 18L1 
+51  : PROJECT 
+52  : 266(A) 
+53  :  
+54  : PASSED 
+55  :  
+56  : CS 18L2 
+57  : VIVA-VOCE 
+58  : 80(A) 
+59  :  
+60  : PASSED 
+61  : </table>Total :758 
+62  :  GPA :8.05 
+63  : <p align=center><font size=4 > 
+64  : CGPA 
+65  : 7.99 
+66  :  
+67  : Classification 
+68  : First Class 
+None
