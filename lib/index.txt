@@ -1,0 +1,72 @@
+0  :  
+1  : Registration Number 
+2  : 12141024 
+3  :  
+4  : Student Name 
+5  : SACHIN RADHAKRISHNAN 
+6  : Degree 
+7  : B.Tech 
+8  :  
+9  : Branch 
+10  : Computer Science & Engineering 
+11  : Semester 
+12  : 8 
+13  : Month & Year  
+14  : April-2017 
+15  :  
+16  : </table><table width="100%" class="order-list" border="2"> 
+17  :  
+18  : Subject Code 
+19  :  
+20  : Subject Name 
+21  :  
+22  : Marks (Grade) 
+23  :  
+24  : Result 
+25  :  
+26  : CS 1801 
+27  : ADVANCED ARCHITECTURE AND PARALLEL PROCESSING 
+28  : 122(A) 
+29  :  
+30  : PASSED 
+31  :  
+32  : CS 1802 
+33  : OBJECT ORIENTED MODELING AND DESIGN 
+34  : 129(A) 
+35  :  
+36  : PASSED 
+37  :  
+38  : CS 1803 
+39  : DISTRIBUTED COMPUTING 
+40  : 103(C) 
+41  :  
+42  : PASSED 
+43  :  
+44  : CS 1804 E3 
+45  : MOBILE COMPUTING 
+46  : 130(A) 
+47  :  
+48  : PASSED 
+49  :  
+50  : CS 18L1 
+51  : PROJECT 
+52  : 292(S) 
+53  :  
+54  : PASSED 
+55  :  
+56  : CS 18L2 
+57  : VIVA-VOCE 
+58  : 90(S) 
+59  :  
+60  : PASSED 
+61  : </table>Total :866 
+62  :  GPA :9.18 
+63  : <p align=center><font size=4 > 
+64  : CGPA 
+65  : 8.99 
+66  :  
+67  : Classification 
+68  : First Class With Distinction 
+CGPA
+
+None
